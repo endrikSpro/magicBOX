@@ -1,1 +1,3 @@
 # magicBOX
+
+![LOGO](magicBOX.jpg)
