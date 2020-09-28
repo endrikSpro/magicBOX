@@ -1,1 +1,3 @@
 ## magicBOX
+
+![](magicBOX.jpg)
