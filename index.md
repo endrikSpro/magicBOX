@@ -3,8 +3,4 @@
 ![](magicBOX.jpg)
 
 
-Ich konstruiere eine Essensdose die sich selbs erwärmen und kühlen kann.
-Außerdem ist die Dose mit LEDs aussgestattet.
-Sie kann mit einem USB–C kabel aufgeleden werden und hält für ca.2Tage
-
-Der Preis soll bei ca. 40–80 EURO liegen.
+I construct a Magicbox  that can heat and cool itself. In addition, the box is equipped with LEDs. It can be charged with a USB-C cable and lasts for about 2 days. The price should be around 40–80 Euros.
