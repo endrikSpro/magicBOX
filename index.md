@@ -1,3 +1,4 @@
+[DE](index.md) - [EN](index_en.md)
 ## magicBOX
 
 ![](magicBOX.jpg)
